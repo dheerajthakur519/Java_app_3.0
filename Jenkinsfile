@@ -1,4 +1,4 @@
-@Library('jenkins_shared_lib') _
+@Library('jenkins-shared-library') _
 
 pipeline{
 
